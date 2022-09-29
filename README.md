@@ -1,4 +1,4 @@
-# alura-spa
+# Alura-SPA
  
 Curso SASS: CSS sintaticamente espetacular realizado pela plataforma Alura.
 
